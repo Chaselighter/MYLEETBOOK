@@ -1,0 +1,19 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "exchange".(±½Ûøûÿÿÿÿ8€×í„ú.
+E
+java:S1659O"#Declare "right" on a separate line.(Ï¶ì„ûÿÿÿÿ8öë²…ú.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8úÃ÷±ù.
+X
+java:S1854"6Remove this useless assignment to local variable "l5".(¤Ùò“ûÿÿÿÿ8‰æÔù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îìïï8Äœ†úù.
+O
+java:S1481"-Remove this unused "exchange" local variable.(±½Ûøûÿÿÿÿ8€×í„ú.
+]	java:S1259"<This block of commented-out lines of code should be removed.(Ú†êüÿÿÿÿ8õ…™…ú.
+{
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Úİ·øÿÿÿÿ8ó·ûùù.
+I
+java:S1481"'Remove this unused "l5" local variable.(¤Ùò“ûÿÿÿÿ8‰æÔù.
+]	java:S1259"<This block of commented-out lines of code should be removed.(Ú†êüÿÿÿÿ8öë²…ú.

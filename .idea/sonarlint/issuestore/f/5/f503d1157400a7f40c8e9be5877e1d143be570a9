@@ -1,0 +1,102 @@
+
+\
+java:S1117°"9Rename "temp" which hides the field declared at line 646.(Ú½°æıÿÿÿÿ8ñü³±÷.
+=
+java:S1659‹"Declare "y" on a separate line.(ì“Ÿ8˜òáÑ÷.
+[
+java:S1854"9Remove this useless assignment to local variable "board".(õ€ìÉüÿÿÿÿ8ñü³±÷.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ı•†øÿÿÿÿ8ñü³±÷.
+w
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Ş–´8ñü³±÷.
+^	java:S125½"<This block of commented-out lines of code should be removed.(°Àäªúÿÿÿÿ8ñü³±÷.
+[
+java:S1117µ"8Rename "res" which hides the field declared at line 154.(ÓèÄÅÿÿÿÿÿ8ñü³±÷.
+K
+java:S1068º"(Remove this unused "flag" private field.(ˆòåİÿÿÿÿÿ8ñü³±÷.
+V
+java:S1117ş"8Rename "res" which hides the field declared at line 154.(œÜ³¹8ñü³±÷.
+|
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÍùÿÿÿÿ8ñü³±÷.
+X
+java:S1117ı"5Rename "n" which hides the field declared at line 52.(å¢ÏÌşÿÿÿÿ8ñü³±÷.
+F
+java:S1659¢"#Declare "right" on a separate line.(ÙŞá¹ûÿÿÿÿ8ñü³±÷.
+M
+java:S1144»"*Remove this unused private "solve" method.(½¨—Ÿÿÿÿÿÿ8ñü³±÷.
+X
+java:S1117°"5Rename "n" which hides the field declared at line 52.(å¢ÏÌşÿÿÿÿ8ñü³±÷.
+]
+java:S1117¢":Rename "right" which hides the field declared at line 557.(ÙŞá¹ûÿÿÿÿ8ñü³±÷.
+w
+java:S1171Í"YMove the contents of this initializer to a standard constructor or to field initializers.(Ş÷Ìƒ8ñü³±÷.
+Y	java:S125Ñ"<This block of commented-out lines of code should be removed.(»ìÌ™8¸Áà±÷.
+V
+java:S1117Ì"8Rename "res" which hides the field declared at line 154.(‚ƒï•8ñü³±÷.
+?
+java:S1659á"!Declare "cur" on a separate line.(ÛÀ—†8ñü³±÷.
+[
+java:S1854°"8Remove this useless assignment to local variable "temp".(Ú½°æıÿÿÿÿ8ñü³±÷.
+C
+java:S2129°" Remove this "String" constructor(Ú½°æıÿÿÿÿ8ñü³±÷.
+L
+java:S1481"*Remove this unused "board" local variable.(õ€ìÉüÿÿÿÿ8ñü³±÷.
+w
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷›´8ñü³±÷.
+p	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µöüÍûÿÿÿÿ8ñü³±÷.
+X	java:S125"<This block of commented-out lines of code should be removed.(Š¡ê‡8ñü³±÷.
+J
+java:S3599Í",Use another way to initialize this instance.(Ş÷Ìƒ8ñü³±÷.
+p	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º°±üÿÿÿÿ8ñü³±÷.
+L
+java:S1128
+"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8àˆ÷.
+\
+java:S1117¢"9Rename "left" which hides the field declared at line 556.(ÙŞá¹ûÿÿÿÿ8ñü³±÷.
+Y	java:S125—"<This block of commented-out lines of code should be removed.(ØÙÄİ8ñü³±÷.
+L
+java:S1481°")Remove this unused "temp" local variable.(Ú½°æıÿÿÿÿ8ñü³±÷.
+9
+java:S3626«"Remove this redundant jump.(ûÁİ…8ñü³±÷.
+L
+java:S1066O"/Merge this if statement with the enclosing one.(ıÖ‰à8®±µ–ö.
+R
+java:S1066"/Merge this if statement with the enclosing one.(ÿş˜Àúÿÿÿÿ8Ò›Ï±ö.
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šú€¹øÿÿÿÿ8ßÅšŠ÷.
+u
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(½¨—Ÿÿÿÿÿÿ8ñü³±÷.
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(Ù±†ıùÿÿÿÿ8ñü³±÷.
+`
+java:S1117ú"=Rename "integers" which hides the field declared at line 532.(Îæş·ûÿÿÿÿ8Ÿõ•³÷.
+\
+java:S1155È">Use isEmpty() to check whether the collection is empty or not.(ä•‡í8ıÒ²¦÷.
+s	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£ˆğÿÿÿÿÿ8¸ôÒãö.
+S
+java:S1854‹"5Remove this useless assignment to local variable "y".(ì“Ÿ8˜òáÑ÷.
+Œ
+java:S1319”"nThe type of the "tmp" object should be an interface such as "List" rather than the implementation "ArrayList".(«¶»­8İƒÁÙö.
+V
+java:S1117Š"8Rename "word" which hides the field declared at line 53.(ÛŠÙš8ñü³±÷.
+r
+java:S14504"PRemove the "n" field and declare it as a local variable in the relevant methods.(äÆİÜûÿÿÿÿ8‰ü¯ö.
+X
+java:S1117™"5Rename "n" which hides the field declared at line 52.(ùòË™üÿÿÿÿ8±ÇŞÑ÷.
+D
+java:S1481‹"&Remove this unused "y" local variable.(ì“Ÿ8˜òáÑ÷.
+[
+java:S1117½"=Rename "integers" which hides the field declared at line 532.(Œ„Æ©8ñü³±÷.
+r
+java:S14503"PRemove the "m" field and declare it as a local variable in the relevant methods.(¯ïÂ¡şÿÿÿÿ8§û¯ö.
+9
+java:S3626µ"Remove this redundant jump.(ûÁİ…8ñü³±÷.
+N
+java:S1068¹"0Remove this unused "solvevisited" private field.(ÙÇËû8ñü³±÷.
+W
+java:S1117¯"9Rename "temp" which hides the field declared at line 646.(Ìú¯×8ñü³±÷.
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÈÔÒ8ñü³±÷.
+F
+java:S1068y")Remove this unused "count" private field.(˜ì’ˆ8ñü³±÷.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8‰¥Ş‡÷.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8ñü³±÷.
+u	java:S116¹"SRename this field "Fobotemp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Â‡Áùÿÿÿÿ8¥Æ—¦÷.

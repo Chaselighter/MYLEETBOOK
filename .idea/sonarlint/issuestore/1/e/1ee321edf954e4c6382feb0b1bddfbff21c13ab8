@@ -1,0 +1,27 @@
+
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8–àèüù.
+=
+java:S2129X" Remove this "String" constructor(¨¥¾Ş8÷ä–‡ú.
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8ıö¸úù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÓÈõ8ó›ğ‹÷.
+D
+java:S16599""Declare "sign" on a separate line.(Ø»¨Óûÿÿÿÿ8²îüù.
+=
+java:S2129 " Remove this "String" constructor(È«®ü8Šù‡ßù.
+>
+java:S1643["Use a StringBuilder instead.(ÌÓ˜›şÿÿÿÿ8³Ï˜‡ú.
+?
+java:S16598"#Declare "bndry" on a separate line.(Î¿Û8²îüù.
+^
+java:S1126q"AReplace this if-then-else statement by a single return statement.(ë…¸ê8İß¾üù.
+K
+java:S1481")Remove this unused "aabc" local variable.(Ãƒ‹™ıÿÿÿÿ8Ï–…ßù.
+A
+java:S1659H"Declare "j" on a separate line.(‰•Îüÿÿÿÿ8²ƒ†ú.
+Z
+java:S1854"8Remove this useless assignment to local variable "aabc".(Ãƒ‹™ıÿÿÿÿ8Ï–…ßù.
+@
+java:S1659c"#Declare "right" on a separate line.(ĞáÌè8ÍÕ†ú.
+]	java:S125w"<This block of commented-out lines of code should be removed.(ÎŸÉ†øÿÿÿÿ8ö’õùù.

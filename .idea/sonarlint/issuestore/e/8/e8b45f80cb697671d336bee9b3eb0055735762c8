@@ -1,0 +1,17 @@
+
+A
+java:S1659C"Declare "b" on a separate line.(Ÿ³ïÿÿÿÿÿ8¤Üöáõ.
+X	java:S125r"<This block of commented-out lines of code should be removed.(è´åâ8Ä·–…ö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8‡áØö.
+]	java:S125A"<This block of commented-out lines of code should be removed.(õ£ë•ÿÿÿÿÿ8»÷‚âõ.
+]	java:S125A"<This block of commented-out lines of code should be removed.(õ£ë•ÿÿÿÿÿ8»÷‚âõ.
+Q
+java:S1481"/Remove this unused "maxAverage" local variable.(ƒ‰òùÿÿÿÿ8Û¬½ãö.
+p
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(³¢˜§8ˆ¶úØö.
+`
+java:S1854">Remove this useless assignment to local variable "maxAverage".(ƒ‰òùÿÿÿÿ8Û¬½ãö.
+F
+java:S1659µ"#Declare "right" on a separate line.(ÙŞá¹ûÿÿÿÿ8’¹ÅØö.
+Z
+java:S1854Ç"7Remove this useless assignment to local variable "min".(Ä¿»¿ıÿÿÿÿ8¥¶ãö.

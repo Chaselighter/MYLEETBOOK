@@ -1,0 +1,74 @@
+
+n	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¦ƒâ8´Ç±ç÷.
+I
+java:S1481"'Remove this unused "t3" local variable.(Èñ‚‰øÿÿÿÿ8ñ¿Ö€ù.
+T
+java:S1481%"7Remove this unused "secondMinimumValue" local variable.(ßâê¤8«Œÿø.
+s	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì•µ…ûÿÿÿÿ8ğÔµø÷.
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì×ñœ8’Ñÿç÷.
+n	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÂ‚—8¹¿¿ç÷.
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì×ñœ8’Ñÿç÷.
+X
+java:S1854"6Remove this useless assignment to local variable "t3".(Èñ‚‰øÿÿÿÿ8ñ¿Ö€ù.
+H
+java:S1172á"*Remove this unused method parameter "pre".(°‡Õ²8õÉ—ãø.
+X	java:S125!"<This block of commented-out lines of code should be removed.(²¿ü°8ñ¿Ö€ù.
+I
+java:S1481"'Remove this unused "t7" local variable.(ÑºÍÿÿÿÿÿ8ñ¿Ö€ù.
+n	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¦ƒâ8µí¯ç÷.
+p
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(é™Û½8«ºëáø.
+w
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(è¼İ8À—’ÿø.
+H
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8Ü¥Ùø.
+~
+java:S1488˜"[Immediately return this expression instead of assigning it to the temporary variable "res".(üÒ¯ıÿÿÿÿ8éŸù.
+
+java:S2234à"cParameters to isSymmetrichelper have the same names but not the same order as the method arguments.(Áˆğƒ8Úé³¹ø.
+S
+java:S1854"6Remove this useless assignment to local variable "t6".(èìëü8ñ¿Ö€ù.
+v
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùíJ8²ôáø.
+q	java:S116ó"ORename this field "Deep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¬‹“şÿÿÿÿ8àÅø¯ø.
+H
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8 »…û÷.
+s	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÑÇÄüÿÿÿÿ8ğÔµø÷.
+I
+java:S1168¢"+Return an empty collection instead of null.(¥¹ï8ÅÄÏàø.
+o	java:S101ò"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞÇÑ‘ıÿÿÿÿ8àÅø¯ø.
+	java:S116ê"]Rename this field "SecondMinimumValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŠĞ‘şÿÿÿÿ8ÒÒĞşø.
+R
+java:S1066€"/Merge this if statement with the enclosing one.(İÁîùÿÿÿÿ8¹±”ÿø.
+n	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¦ƒâ8±ç÷.
+z
+java:S2259‚"WA "NullPointerException" could be thrown; "subtreeWithAllDeepestdfs()" can return null.(” Ûüıÿÿÿÿ8æ§¬¶ø.
+F
+java:S1604ë"(Make this anonymous inner class a lambda(è¼İ8À—’ÿø.
+X
+java:S1854"6Remove this useless assignment to local variable "t7".(ÑºÍÿÿÿÿÿ8ñ¿Ö€ù.
+Y	java:S125š"<This block of commented-out lines of code should be removed.(ëâäé8ÂÖ·Ó÷.
+r
+java:S1149U"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".( ›ã ùÿÿÿÿ8•ë«°÷.
+n	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é™Û½8ÅÄÏàø.
+s	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì•µ…ûÿÿÿÿ8ğÔµø÷.
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì×ñœ8’Ñÿç÷.
+r
+java:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".( ›ã ùÿÿÿÿ8 ®¥°÷.
+c
+java:S1854%"FRemove this useless assignment to local variable "secondMinimumValue".(ßâê¤8«Œÿø.
+r
+java:S1149A"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".( ›ã ùÿÿÿÿ8”‘»§÷.
+]	java:S125"<This block of commented-out lines of code should be removed.(¡Ÿ»çøÿÿÿÿ8Œ¾Õ€ù.
+X	java:S125É"<This block of commented-out lines of code should be removed.(û¦­)8ã›è£ø.
+i
+java:S1192-"GDefine a constant instead of duplicating this literal "white" 12 times.(úÉ½¨ùÿÿÿÿ8µÁî§÷.
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(½¡ùœ8Œ©Ÿÿø.
+D
+java:S1481"'Remove this unused "t6" local variable.(èìëü8ñ¿Ö€ù.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8’•æ§÷.
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì×ñœ8’Ñÿç÷.
+s	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì•µ…ûÿÿÿÿ8ğÔµø÷.
+n	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¦ƒâ8±ç÷.
+i	java:S101g"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İï€ş8µûË§÷.
+^	java:S125"<This block of commented-out lines of code should be removed.(…Ê¡şúÿÿÿÿ8İÓÂ°ù.

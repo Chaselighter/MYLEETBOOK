@@ -1,0 +1,24 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "search".(âšè8¾êºµù.
+<
+java:S1659h"Declare "r" on a separate line.(·â±8Œ¤®Êù.
+<
+java:S1659["Declare "r" on a separate line.(·â±8Œ¤®Êù.
+<
+java:S1659?"Declare "r" on a separate line.(îäÁ8ı´Ì³ù.
+o	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞØ¾Åúÿÿÿÿ8ïÈÊ³ù.
+L
+java:S5411Q"*Use the primitive boolean expression here.(ŒƒóÍşÿÿÿÿ8Ø…µù.
+L
+java:S1144Z"/Remove this unused private "searchLeft" method.(®¨ÈÛ8˜ª¶Êù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ç‹í8Ìå¢²ù.
+H
+java:S1481"+Remove this unused "search" local variable.(âšè8¾êºµù.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÀŸ¨Ñ8ˆ¬²ù.
+<
+java:S1659("Declare "j" on a separate line.( ÄÁÇ8¸¶³ù.
+<
+java:S1659q"Declare "r" on a separate line.(·â±8ª´ãÊù.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÙÒŒ²ù.
